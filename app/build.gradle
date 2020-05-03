@@ -3,11 +3,11 @@ apply plugin: 'com.android.application'
 android {
     useLibrary 'org.apache.http.legacy'
     compileSdkVersion 29
-    buildToolsVersion "29.0.2"
+    buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "id.my.donny.jualbelihp_ti17d4"
-        minSdkVersion 16
+        applicationId "com.indra.jualbeliti17d4"
+        minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
